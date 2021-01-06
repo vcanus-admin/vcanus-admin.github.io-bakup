@@ -29,7 +29,7 @@ Data Innovator for Smart Industry
  - Classification & Recommendation
 ```
 
-## 3. Printed Electronics Solution & Consulting
+## 4. Printed Electronics Solution & Consulting
 VCANUS is collaborating with Applied Laser Technology Lab. at the University of Kookmin. We can provide the best solution to manufacture your products.
 ```
  - Laser-based Sintering
