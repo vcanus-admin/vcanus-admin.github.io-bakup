@@ -31,6 +31,8 @@ Trust is the glue of life. It's the most essential ingredient in effective commu
 ### David
 ### SH Park
 ### DivNa
+### Jun Park
+### MS Koo
 
 ## VIP
 ### YR Shin
