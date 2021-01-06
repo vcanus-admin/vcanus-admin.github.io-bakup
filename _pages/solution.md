@@ -12,7 +12,7 @@ Data Innovator for Smart Industry
  - DB Optimization
  - Distributed System for Data Analysis
 ```
-## 2. Smart Factory System
+## 2. Smart Factory System Development
 ```
  - Factory Data Acquisition & Transfer & DB Loading
  - Automation & Process Optimzation
