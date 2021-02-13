@@ -1,6 +1,6 @@
 ---
 title: "Meltpool control"
-data: 2020-02-02 00:00:00 -0000
+data: 2021-02-11 00:00:00 -0000
 categories: development 
 tags: meltpool control machine vision machine learning additive manufacturing
 ---
