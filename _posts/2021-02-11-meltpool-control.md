@@ -1,5 +1,5 @@
 ---
-title: "Meltpool control"
+title: "Vision-based Meltpool control SW"
 data: 2021-02-11 00:00:00 -0000
 categories: development 
 tags: meltpool control machine-vision machine-learning additive-manufacturing
