@@ -5,6 +5,6 @@ categories: development
 tags: meltpool control machine-vision machine-learning additive-manufacturing
 ---
 
-<iframe width="559" height="315" src="https://www.youtube.com/embed/uj2mpvXHAek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="559" height="315" src="https://www.youtube.com/embed/kHJCm3TZ9vo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Meltpool control for additive manufacturing
