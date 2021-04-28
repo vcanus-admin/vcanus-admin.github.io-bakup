@@ -8,7 +8,8 @@ VCANUS is the company with strong growth potential. The name of VCANUS is borrow
 
 ## 1. Vision
 ```
-World best in intelligent manufacturing system
+ - World best company in intelligent manufacturing system
+ - To make good subsidiary companies with employees
 ```
 
 ## 2. Actions
