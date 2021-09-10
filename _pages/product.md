@@ -6,7 +6,7 @@ title:
 
 We aim for people's better life.
 
-## 1. EdgeV 
+## 1. EdgeV (Data ETL, analysis and visualization)
 
 ### Key Features
 #### Data Aquisition & ETL
@@ -31,15 +31,34 @@ We aim for people's better life.
 ```
  - Chart for real-time data (16ch, 10kHz/ch)
  - Chart for time-series data in DB
- - Compatible with VCANUS's web solution
+ - Extension to web solution
 ```
-#### Applications
+### Applications
 ```
- - Dashboard for real-time monitoring of time-series data
- - Anomaly detection of manufacturing process (model managment)
+ - Fast ETL of time-series data gathered from many devices and equipment
+ - Remote monitoring of time-series data
+ - Anomaly detection of manufacturing process with managment of diagnosis models
 ```
 
-## 2. 3D Scanning System with Robot Control
+## 2. TSChart (Web-based data monitoring and analysis)
+### Key Features
+#### Real-time Data Monitoring & DB Search
+```
+ - Fast rendering
+ - Web-page customization (chart type, layout, etc.)
+```
+#### Management of Data ETL Agent
+```
+ - Compatible with EdgeV
+ - Remote process management
+ - Data acquisition management (start/stop)
+```
+### Applications
+```
+ - Dashboard for real-time monitoring and analysis of time-series data
+```
+
+## 3. Robot-based 3D Scanning System
 ### Key Features
 #### Supported Equipment
 ```
@@ -62,7 +81,7 @@ We aim for people's better life.
  - Analysis of measured data
 ```
 
-## 3. CAM Software for 3D Metal Printing
+## 4. CAM Software for 3D Metal Printing
 ### Key Features
 ```
  - Toolpath generation for 5-axis additive manufacturing
@@ -70,7 +89,7 @@ We aim for people's better life.
 ```
 ![image](https://user-images.githubusercontent.com/44759045/94678230-2012ae80-0359-11eb-89e9-3b3b198e1107.png)
 
-## 4. Laser Control System for 3D Metal Printing
+## 5. Laser Control System for 3D Metal Printing
 ### Key Feature
 ```
  - Optic & Vision System
