@@ -1,5 +1,5 @@
 ---
-title: "Real-time monotoring test"
+title: "Web-based real-time monotoring test"
 data: 2021-08-24 00:00:00 -0000
 categories: development 
 tags: real-time monitoring time-series data cnc
