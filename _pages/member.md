@@ -39,8 +39,5 @@ Trust is the glue of life. It's the most essential ingredient in effective commu
 
 ## Exellent Staff
 ### SH Lee
+### HT Lee
 
-## VIP
-### YR Shin
-### Jjangchan
-### SH Park
