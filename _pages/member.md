@@ -29,12 +29,15 @@ Trust is the glue of life. It's the most essential ingredient in effective commu
 ## Brilliant Developers
 ### BG Kim
 ### David
-### SH Park
-### DivNa
 ### Jun Park
-### MS Koo
+### DivNa
+### JW Lee
+### SY Bang
+### YJ Jung
+### MN Yim
+### DH Kim
 
 ## VIP
 ### YR Shin
 ### Jjangchan
-### DH Kim
+### SH Park
