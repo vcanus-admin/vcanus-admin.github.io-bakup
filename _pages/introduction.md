@@ -29,7 +29,7 @@ VCANUS is the company with strong growth potential. The name of VCANUS is borrow
 
 ## 4. Business Area
 
-### 1) B2B - Software for Manufacturing Industry
+### 1) For Manufacturing Industry
 VCANUS provides products and solutions to increase productivity.
 #### Big Data & Data Analysis Solution
 ```
@@ -47,7 +47,10 @@ VCANUS provides products and solutions to increase productivity.
 ```
  - Laser Filament Growth Sintering
 ```
-### 2) B2C - Web/Mobile Application
+### 2) For Daily Life
+#### AI-based Payment System
 ```
- - R&D Stage
+ - AI-based object detection
+ - Quick payment with camera and kiosk
 ```
+#### Customized and Personalized Beauty 
