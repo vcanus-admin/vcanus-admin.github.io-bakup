@@ -4,7 +4,7 @@ permalink: /product/
 title: 
 ---
 
-We aim for people's better life.
+We aim for improvement of product's quality and maximization of capacity utilization in manufacturing system.
 
 ## 1. EdgeV (Data ETL, analysis and visualization)
 
@@ -81,7 +81,10 @@ We aim for people's better life.
  - Analysis of measured data
 ```
 
-## 4. CAM Software for 3D Metal Printing
+## 4. SnapCashier (AI-based payment system)
+Comming soon
+
+## 5. CAM Software for 3D Metal Printing
 ### Key Features
 ```
  - Toolpath generation for 5-axis additive manufacturing
@@ -89,7 +92,7 @@ We aim for people's better life.
 ```
 ![image](https://user-images.githubusercontent.com/44759045/94678230-2012ae80-0359-11eb-89e9-3b3b198e1107.png)
 
-## 5. Laser Control System for 3D Metal Printing
+## 6. Laser Control System for 3D Metal Printing
 ### Key Feature
 ```
  - Optic & Vision System
