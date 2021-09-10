@@ -8,11 +8,17 @@ VCANUS is the company with strong growth potential. The name of VCANUS is borrow
 
 ## 1. Vision
 ```
- - World best company in intelligent manufacturing system, 
- - specifically in data analysis of time-series, images, and 3D data.
+ - Aim, Run, Share, Together
 ```
 
-## 2. Actions
+## 2. Objectives
+```
+ - World best company in intelligent manufacturing system, 
+ - Specialty in data analysis of time-series, images, and 3D data.
+ - Success in various business with intelligent specialty
+```
+
+## 3. Actions
 ```
  - Agile
  - Positive
@@ -20,7 +26,7 @@ VCANUS is the company with strong growth potential. The name of VCANUS is borrow
  - Collaborative
 ```
 
-## 3. Values
+## 4. Values
 ```
  - Customer
  - Integrity
