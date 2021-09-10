@@ -6,14 +6,15 @@ title:
 
 We aim for people's better life.
 
-## 1. Edge Computing Solution 
+## 1. EdgeV 
 
 ### Key Features
 #### Data Aquisition & ETL
 ```
- - Low Latency for Data Transfer
- - Time-series DB Supported
- - Summary Statistics Read/Write
+ - DAQ support (NI, Adlink)
+ - Low Latency (under 5msec)
+ - Time-syncronization for data acquisitoin from various devices
+ - Time-series DB is supported
 ```
 #### Compatibility
 ```
@@ -22,56 +23,50 @@ We aim for people's better life.
 ```
 #### Data Analysis
 ```
- - Analysis Processing with Chaining Architecture
- - Distributed Process Control
- - Basic Function: Domain Transform, Summary Statistics, RMS, etc.
- - Basic Module: Anomaly Detection
- - User Function or Module is Supported
- - Supported Language: C++, Python
+ - Anomaly detection is supported
+ - Model management (version control, DB support)
+ - User function is supported (supported language: C++, Python)
 ```
 #### Visualization
 ```
- - Network-based RT Chart: 10K/sec x N-Channels
- - Web-based Chart
+ - Chart for real-time data (16ch, 10kHz/ch)
+ - Chart for time-series data in DB
+ - Compatible with VCANUS's web solution
 ```
 #### Applications
 ```
- - Verified Vendors: Adlink MCM-Series, NI DAQ
- - High Frequency Data Acquisition, Realtime ETL, and Visualization
- - Special Function: RT Timer is supported (Linux only)
+ - Dashboard for real-time monitoring of time-series data
+ - Anomaly detection of manufacturing process (model managment)
 ```
 
 ## 2. 3D Scanning System with Robot Control
 ### Key Features
+#### Supported Equipment
+```
+ - Robot: Fanuc, Neuromeka
+ - PLC: Mitsubishi CC-Link IE
+```
 #### Robot & 3D Scanner Control
 ```
- - PC-based Robot Control
- - API Servers for Scanner Control
- - Data & Event Transfer with EcoSystem
- - PLC is supported
+ - PC-based Robot and scanner control
+ - Sequence control with editable script
 ```
-#### Measurement Data Management
+#### Virtual Teaching & Simulation
 ```
- - Script-based Measurement DB Management
- - Performance Up with VCANUS's DB Solution
+ - Motion teaching with mouse or motion sensor
+ - Virtual simulation with collision detection
 ```
-#### Visualization & HMI
+#### Data Management
 ```
- - 3D Visualization
- - Winform-based HMI
- - Web-based UI
-```
-#### Robot Teaching with VR Solution
-```
- - Motion Teaching with VR Sensor
- - Virtual Simulation & Collision Detection
+ - SPC(Statistics Process Control) with web-based solution
+ - Analysis of measured data
 ```
 
 ## 3. CAM Software for 3D Metal Printing
 ### Key Features
 ```
- - Toolpath Generation for 5-axis Additive Manufacturing
- - Virtual Simulation
+ - Toolpath generation for 5-axis additive manufacturing
+ - Virtual simulation
 ```
 ![image](https://user-images.githubusercontent.com/44759045/94678230-2012ae80-0359-11eb-89e9-3b3b198e1107.png)
 
