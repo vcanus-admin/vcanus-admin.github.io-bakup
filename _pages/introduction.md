@@ -6,19 +6,19 @@ title:
 
 VCANUS is the company with strong growth potential. The name of VCANUS is borrowed from "Volcanus" that is the Latin name of "Vulcan". Vulcan is the god of fire and can be depicted with the blacksmith's hammer. We aim for people's better life by making useful and helpful solutions like fire and blacksmith's production.
 
-##
+
 ```
  - Aim, Run, Share, Together As Long As Possible
 ```
 
-## 2. Objectives
+## Objectives
 ```
  - World best company in intelligent manufacturing system, 
  - Specialty in data analysis of time-series, images, and 3D data.
  - Success in various business with intelligent specialty
 ```
 
-## 3. Actions
+## Actions
 ```
  - Agile
  - Positive
@@ -26,14 +26,14 @@ VCANUS is the company with strong growth potential. The name of VCANUS is borrow
  - Collaborative
 ```
 
-## 4. Values
+## Values
 ```
  - Customer
  - Integrity
  - Innovation
 ```
 
-## 4. Business Area
+## Business Area
 
 ### 1) For Manufacturing Industry
 VCANUS provides products and solutions to increase productivity.
