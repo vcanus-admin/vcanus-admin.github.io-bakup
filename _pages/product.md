@@ -40,7 +40,7 @@ We aim for improvement of product's quality and maximization of capacity utiliza
  - Anomaly detection of manufacturing process with managment of diagnosis models
 ```
 
-## 2. TSChart (Web-based data monitoring and analysis)
+## 2. TsLoom (Web-based data monitoring and analysis)
 ### Key Features
 #### Real-time Data Monitoring & DB Search
 ```
