@@ -8,7 +8,7 @@ VCANUS is the company with strong growth potential. The name of VCANUS is borrow
 
 
 ```
- - Aim, Run, Share, Together As Long As Possible
+ - Share together with our technology
 ```
 
 ## Objectives
