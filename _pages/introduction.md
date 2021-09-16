@@ -4,7 +4,7 @@ permalink: /introduction/
 title: 
 ---
 
-VCANUS is the company with strong growth potential. The name of VCANUS is borrowed from "Volcanus" that is the Latin name of "Vulcan". Vulcan is the god of fire and can be depicted with the blacksmith's hammer. We aim for people's better life by making useful and helpful solutions like fire and blacksmith's production.
+VCANUS is the company with strong growth potential. The name of VCANUS is borrowed from "Volcanus" that is the Latin name of "Vulcan". Vulcan is the god of fire and can be depicted with the blacksmith's hammer. We aim for people's better life by making useful and valuable solutions like fire and blacksmith's production.
 
 
 ```
