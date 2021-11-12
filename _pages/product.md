@@ -88,8 +88,8 @@ We aim for improvement of product's quality and maximization of capacity utiliza
  - SPC(Statistics Process Control) with web-based solution
  - Analysis of measured data
 ```
-![image](https://user-images.githubusercontent.com/33934527/132926487-f7e2690d-0c6a-41dd-bf3d-932568ca5f75.png)
-![image](https://user-images.githubusercontent.com/33934527/141402250-fca282e8-1ed7-4f0a-bfda-a20c68e5e941.jpeg)
+![roboscan_fanuc](https://user-images.githubusercontent.com/33934527/141403906-74fb72fb-d15c-476a-8b20-f845846be603.png)
+![roboscan_ur](https://user-images.githubusercontent.com/33934527/141403900-e1f0988d-c0f7-4d9a-8c67-45d579989080.jpeg)
 
 ## 4. SnapCashier (AI-based payment system)
 Comming soon
