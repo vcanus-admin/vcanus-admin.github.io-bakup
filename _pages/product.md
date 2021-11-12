@@ -65,14 +65,22 @@ We aim for improvement of product's quality and maximization of capacity utiliza
  - Robot: Fanuc, Neuromeka
  - PLC: Mitsubishi CC-Link IE
 ```
+#### High Speed and High Resolution 3D Scanner 
+````
+ - Blue Light Equalizer: Uniform non-coherent speckle-free light
+ - Low noise level: Precise coverage of complex geometries
+ - High detail resolution: Projection of very small fringes per unit area
+ - Bright LED light source: 1.5 times brighter
+````
 #### Robot & 3D Scanner Control
 ```
  - PC-based Robot and scanner control
  - Sequence control with editable script
 ```
-#### Virtual Teaching & Simulation
+#### Teaching & Simulation
 ```
  - Motion teaching with mouse or motion sensor
+ - Manual teaching with universal robot
  - Virtual simulation with collision detection
 ```
 #### Data Management
