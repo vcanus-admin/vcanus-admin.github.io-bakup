@@ -34,7 +34,8 @@ Trust is the glue of life. It's the most essential ingredient in effective commu
 ### JW Lee
 ### SY Bang
 ### YJ Jung
-### MN Yim
+### KW Kim
+### SH Jung
 ### DH Kim
 
 ## Exellent Staff
