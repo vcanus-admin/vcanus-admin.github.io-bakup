@@ -58,7 +58,7 @@ We aim for improvement of product's quality and maximization of capacity utiliza
  - Dashboard for real-time monitoring and analysis of time-series data
 ```
 
-## 3. Robot-based 3D Scanning System
+## 3. RoboScan (Robot-based 3D Scanning System)
 ### Key Features
 #### Supported Equipment
 ```
