@@ -4,7 +4,9 @@ permalink: /product/
 title: 
 ---
 
+<!--
 We aim for improvement of product's quality and maximization of capacity utilization in manufacturing system.
+-->
 
 ## 1. EdgeV (Data ETL, analysis and visualization)
 
