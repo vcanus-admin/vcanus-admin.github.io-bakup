@@ -94,7 +94,7 @@ We aim for improvement of product's quality and maximization of capacity utiliza
 ![roboscan_ur](https://user-images.githubusercontent.com/33934527/141403900-e1f0988d-c0f7-4d9a-8c67-45d579989080.jpeg)
 
 ## 4. SnapCashier (AI-based payment system)
-Comming soon
+Under development
 
 ## 5. CAM Software for 3D Metal Printing
 ### Key Features
