@@ -26,13 +26,21 @@ Trust is the glue of life. It's the most essential ingredient in effective commu
  - Professor at Kookmin University
  - Expertise in Laser-based Printed Electronics
 
-## Brilliant Developers
-### BG Kim
-### David
-### SH Park
-### DivNa
+<!--
+### GE Kim
+ - Director
+ - Business Development
 
-## VIP
-### YR Shin
-### Jjangchan
-### DH Kim
+
+## Brilliant Developers
+### YG Hong
+### SY Bang
+### YJ Jung
+### KW Kim
+### SH Jung
+### GH Kim
+
+## Exellent Staff
+### SH Lee
+### HT Lee
+-->

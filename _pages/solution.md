@@ -12,8 +12,15 @@ Data Innovator for Smart Industry
  - DB Optimization
  - Distributed System for Data Analysis
 ```
+## 2. Smart Factory System Development
+```
+ - Factory Data Acquisition & Transfer & DB Loading
+ - Automation & Process Optimzation
+ - Process Data Analysis
+ - MES & Customized MES
+```
 
-## 2. Data Analysis Solution & Consulting
+## 3. Data Analysis Solution & Consulting
 ```
  - Signal & Image Processing
  - Time-Series Data Analysis
@@ -22,7 +29,7 @@ Data Innovator for Smart Industry
  - Classification & Recommendation
 ```
 
-## 3. Printed Electronics Solution & Consulting
+## 4. Printed Electronics Solution & Consulting
 VCANUS is collaborating with Applied Laser Technology Lab. at the University of Kookmin. We can provide the best solution to manufacture your products.
 ```
  - Laser-based Sintering

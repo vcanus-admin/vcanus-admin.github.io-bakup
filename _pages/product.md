@@ -4,16 +4,19 @@ permalink: /product/
 title: 
 ---
 
-We aim for people's better life.
+<!--
+We aim for improvement of product's quality and maximization of capacity utilization in manufacturing system.
+-->
 
-## 1. Edge Computing Solution 
+## 1. EdgeV (Data ETL, analysis and visualization)
 
 ### Key Features
 #### Data Aquisition & ETL
 ```
- - Low Latency for Data Transfer
- - Time-series DB Supported
- - Summary Statistics Read/Write
+ - DAQ support (NI, Adlink)
+ - Low Latency (under 5msec)
+ - Time-syncronization for data acquisitoin from various devices
+ - Time-series DB is supported
 ```
 #### Compatibility
 ```
@@ -22,60 +25,86 @@ We aim for people's better life.
 ```
 #### Data Analysis
 ```
- - Analysis Processing with Chaining Architecture
- - Distributed Process Control
- - Basic Function: Domain Transform, Summary Statistics, RMS, etc.
- - Basic Module: Anomaly Detection
- - User Function or Module is Supported
- - Supported Language: C++, Python
+ - Anomaly detection is supported
+ - Model management (version control, DB support)
+ - User function is supported (supported language: C++, Python)
 ```
 #### Visualization
 ```
- - Network-based RT Chart: 10K/sec x N-Channels
- - Web-based Chart
+ - Chart for real-time data (16ch, 10kHz/ch)
+ - Chart for time-series data in DB
+ - Extension to web solution
 ```
-#### Applications
+### Applications
 ```
- - Verified Vendors: Adlink MCM-Series, NI DAQ
- - High Frequency Data Acquisition, Realtime ETL, and Visualization
- - Special Function: RT Timer is supported (Linux only)
+ - Fast ETL of time-series data gathered from many devices and equipment
+ - Remote monitoring of time-series data
+ - Anomaly detection of manufacturing process with managment of diagnosis models
 ```
 
-## 2. 3D Scanning System with Robot Control
+## 2. TsLoom (Web-based data monitoring and analysis)
 ### Key Features
+#### Real-time Data Monitoring & DB Search
+```
+ - Fast rendering
+ - Web-page customization (chart type, layout, etc.)
+```
+#### Management of Data ETL Agent
+```
+ - Compatible with EdgeV
+ - Remote process management
+ - Data acquisition management (start/stop)
+```
+### Applications
+```
+ - Dashboard for real-time monitoring and analysis of time-series data
+```
+
+## 3. RoboScan (Robot-based 3D Scanning System)
+### Key Features
+#### Supported Equipment
+```
+ - Robot: Fanuc, Neuromeka
+ - PLC: Mitsubishi CC-Link IE
+```
+#### High Speed and High Resolution 3D Scanner 
+````
+ - Blue Light Equalizer: Uniform non-coherent speckle-free light
+ - Low noise level: Precise coverage of complex geometries
+ - High detail resolution: Projection of very small fringes per unit area
+ - Bright LED light source: 1.5 times brighter
+````
 #### Robot & 3D Scanner Control
 ```
- - PC-based Robot Control
- - API Servers for Scanner Control
- - Data & Event Transfer with EcoSystem
- - PLC is supported
+ - PC-based Robot and scanner control
+ - Sequence control with editable script
 ```
-#### Measurement Data Management
+#### Teaching & Simulation
 ```
- - Script-based Measurement DB Management
- - Performance Up with VCANUS's DB Solution
+ - Motion teaching with mouse or motion sensor
+ - Manual teaching with universal robot
+ - Virtual simulation with collision detection
 ```
-#### Visualization & HMI
+#### Data Management
 ```
- - 3D Visualization
- - Winform-based HMI
- - Web-based UI
+ - SPC(Statistics Process Control) with web-based solution
+ - Analysis of measured data
 ```
-#### Robot Teaching with VR Solution
-```
- - Motion Teaching with VR Sensor
- - Virtual Simulation & Collision Detection
-```
+![roboscan_fanuc](https://user-images.githubusercontent.com/33934527/141403906-74fb72fb-d15c-476a-8b20-f845846be603.png)
+![roboscan_ur](https://user-images.githubusercontent.com/33934527/141403900-e1f0988d-c0f7-4d9a-8c67-45d579989080.jpeg)
 
-## 3. CAM Software for 3D Metal Printing
+## 4. SnapCashier (AI-based payment system)
+Under development
+
+## 5. CAM Software for 3D Metal Printing
 ### Key Features
 ```
- - Toolpath Generation for 5-axis Additive Manufacturing
- - Virtual Simulation
+ - Toolpath generation for 5-axis additive manufacturing
+ - Virtual simulation
 ```
 ![image](https://user-images.githubusercontent.com/44759045/94678230-2012ae80-0359-11eb-89e9-3b3b198e1107.png)
 
-## 4. Laser Control System for 3D Metal Printing
+## 6. Laser Control System for 3D Metal Printing
 ### Key Feature
 ```
  - Optic & Vision System

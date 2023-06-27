@@ -1,6 +1,6 @@
 ---
 title: "6-axis robot simulator"
-data: 2020-02-02 00:00:00 -0000
+data: 2020-12-04 00:00:00 -0000
 categories: development 
 tags: 6-axis robot simulator 
 ---
